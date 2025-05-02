@@ -86,6 +86,6 @@ We used a combination of CNN-based models and Random Forest to benchmark traditi
 ## 📥 Read the Full Report
 Want to dive deeper into the project details?
 
-👉 [**Click here to view the full PDF report**](./Automatic Number Plate Recognition.pdf)
+👉 [**Click here to view the full PDF report**](./Automatic%20Number%20Plate%20Recognition.pdf)
 
 Alternatively, download the report directly from this repository.
